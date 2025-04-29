@@ -1,0 +1,3 @@
+numpy
+matploylib
+scikit-learn
